@@ -1,2 +1,2 @@
 # PDS-I
-Exercises developed in the laboratory during the discipline of Programming and Software Development I (PDS I), belonging to the 1st semester curriculum of the undergraduate course in Data Science at UFMG (Federal University of Minas Gerais)
+Exercícios desenvolvidos em laboratório durante a disciplina de Programação e Desenvolvimento de Software I (PDS I), pertencente à grade do 1º semestre do curso de graduação em Ciência de Dados da UFMG (Universidade Federal de Minas Gerais)
